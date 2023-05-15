@@ -1,3 +1,3 @@
 # OIBSIP_task1
-Oasis Infobyte Internship 
+Oasis Infobyte Web Development and Designing Internship .
 Landing Page
